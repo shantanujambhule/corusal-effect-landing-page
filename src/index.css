@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  font-family: "PP Neue Montreal";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.images{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+p,a{
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+  font-weight: 500;
+}
+.card img{
+  position: absolute;
+  opacity: 0.75;
+}
+h1{
+  font-family: "PP Editorial Old";
+  font-size: 5vw;
+  align-items: center;
+  text-align: center;
+  font-weight: 300;
+  letter-spacing: -0.05em;
+  text-transform: uppercase;
+}
+h1 span{
+  position: relative;
+  display: inline-block;
+  
+}
