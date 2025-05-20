@@ -28,44 +28,39 @@ HTML5 & CSS3
 Follow these steps to set up the project locally:
 
 Prerequisites
-Node.js (v14 or higher)
 
-npm or yarn package manager
+• Node.js (v14 or higher)
+• npm or yarn package manager
 
 Installation
+
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/shantanujambhule/corusal-effect-landing-page.git
 cd corusal-effect-landing-page
-Install dependencies:
 
-bash
-Copy
-Edit
+##1 Install dependencies:
+
+```
 npm install
 # or
 yarn install
-Start the development server:
+```
 
-bash
-Copy
-Edit
+##2 Start the development server:
+
+```
 npm run dev
 # or
 yarn dev
-Open your browser and navigate to:
+```
+##3 Open your browser and navigate to:
 
-arduino
-Copy
-Edit
 http://localhost:5173
+
+##4 Project Structure
+
 🧪 Project Structure
-bash
-Copy
-Edit
 ├── public/             # Static assets
 ├── src/                # Source code
 │   ├── components/     # Reusable components
@@ -75,6 +70,7 @@ Edit
 ├── package.json        # Project metadata and scripts
 ├── vite.config.js      # Vite configuration
 └── README.md           # Project documentation
+
 📄 License
 This project is licensed under the MIT License.
 
