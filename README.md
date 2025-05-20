@@ -1,12 +1,82 @@
-# React + Vite
+A modern, responsive landing page featuring a carousel effect, built with React and Vite.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Live Demo
+https://corusal-effect-landing-page.vercel.app/
 
-Currently, two official plugins are available:
+📸 Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://github.com/user-attachments/assets/046bde3d-5509-4140-a67b-344e3bfe1ba5
+
+
+🛠️ Features
+
+Responsive design optimized for various devices
+Interactive carousel effect for showcasing content
+Built with React and Vite for fast development and performance
+ESLint configured for code quality and consistency
+
+🧰 Technologies Used
+
+React
+Vite
+ESLint
+HTML5 & CSS3
+
+📦 Getting Started
+Follow these steps to set up the project locally:
+
+Prerequisites
+Node.js (v14 or higher)
+
+npm or yarn package manager
+
+Installation
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/shantanujambhule/corusal-effect-landing-page.git
+cd corusal-effect-landing-page
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+# or
+yarn install
+Start the development server:
+
+bash
+Copy
+Edit
+npm run dev
+# or
+yarn dev
+Open your browser and navigate to:
+
+arduino
+Copy
+Edit
+http://localhost:5173
+🧪 Project Structure
+bash
+Copy
+Edit
+├── public/             # Static assets
+├── src/                # Source code
+│   ├── components/     # Reusable components
+│   ├── assets/         # Images and other assets
+│   └── App.jsx         # Main application component
+├── index.html          # HTML template
+├── package.json        # Project metadata and scripts
+├── vite.config.js      # Vite configuration
+└── README.md           # Project documentation
+📄 License
+This project is licensed under the MIT License.
+
+🙌 Acknowledgements
+ Made by Shantanu Jambhule ❤️ 
